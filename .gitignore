@@ -1,0 +1,9 @@
+.env
+npm-debug.log
+node_modules
+*.log
+*.log.*
+\.idea/
+package-lock.json
+.vscode
+uploads

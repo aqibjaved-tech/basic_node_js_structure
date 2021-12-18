@@ -1,0 +1,42 @@
+{
+  "name": "basic_node_structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql2": "^2.1.0",
+    "node-localstorage": "^2.1.5",
+    "node-mailjet": "^3.3.1",
+    "nodemailer": "^6.4.2",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "nodemon": "^2.0.2",
+    "npm": "^6.14.4",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "sequelize": "^5.21.3",
+    "socket.io": "^2.3.0",
+    "tedious": "^8.3.0",
+    "uuid": "^7.0.2",
+    "uuidv4": "^6.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhatWeThink/WhatWeThink_api.git"
+  },
+  "author": "Aqib Javed",
+  "license": "ISC"
+}
